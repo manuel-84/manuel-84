@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="terminal-card-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="terminal-card-light.svg" />
-  <img src="terminal-card-light.svg" width="100%" alt="Manuel Persico — CTO at Inoke. Software, AI and systems. Lifelong tinkerer, science-fiction reader. Asimov and Pekka Himanen's hacker ethic." />
+  <source media="(prefers-color-scheme: dark)" srcset="console-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="console-light.svg" />
+  <img src="console-light.svg" width="100%" alt="Manuel Persico — CTO at Inoke. Software, AI and systems. Lifelong tinkerer, science-fiction reader. Asimov and Pekka Himanen's hacker ethic." />
 </picture>
 
 <p align="center">
