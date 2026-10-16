@@ -12,7 +12,7 @@
 
 **It started with a Commodore 64. At 11, I wrote my first program: a Space Invaders-style game in BASIC.**
 
-**At 18, my high-school thesis explored neural networks**, with an application that learned to count, OCR, image recognition and backpropagation algorithms. My interest in AI started there, long before it became part of my day-to-day work.
+**At 18, my high-school thesis explored neural networks**, with an application that learned to count, OCR, image recognition and backpropagation algorithms, plus a neural-network visualization built in Visual Basic. My interest in AI started there, long before it became part of my day-to-day work.
 
 That was the beginning of a lifelong habit: figuring out how computers work by making them do something. I still want to know what happens underneath — how the pieces communicate, why something fails, and what else it could do. That curiosity became my profession. The urge to tinker never went away.
 
@@ -121,4 +121,5 @@ Stay curious. Go deeper. Build something useful.
 ```
 
 <p align="center"><a href="https://inoke.studio">[ Inoke ]</a> · <a href="https://www.linkedin.com/in/manuel-persico-bb8793b0/">[ Let's connect ]</a></p>
+
 
