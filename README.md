@@ -1,21 +1,6 @@
-# Manuel Persico
+<img src="profile-terminal-blue.svg" width="100%" alt="Manuel Persico — Software & Applied AI Engineer · CTO at Inoke · Lifelong tinkerer. Windows, Linux, Android. Software architecture, applied AI and systems. Interests: AI, tinkering, hardware and science fiction. Isaac Asimov and Pekka Himanen’s hacker ethic." />
 
-*Software & Applied AI Engineer · CTO at Inoke · Lifelong tinkerer*
-
-| | |
-| :--- | :--- |
-| `OS` | Windows · Linux · Android |
-| `Uptime` | 41 years, 9 months, 17 days · as of October 16, 2026 |
-| `Host` | Inoke |
-| `Kernel` | CTO / Software Engineer |
-| `Languages.Programming` | Python · PHP · JavaScript · Java |
-| `Languages.Real` | Italian · English |
-| `Focus` | Software architecture · Applied AI · Systems |
-| `Interests` | Artificial intelligence · Tinkering · Hardware · Science fiction |
-| `Reading` | Isaac Asimov · Science fiction |
-| `Ethos` | Pekka Himanen's hacker ethic |
-| `Location` | Sardinia, Italy |
-| `Connect` | [Inoke](https://inoke.studio) · [LinkedIn](https://www.linkedin.com/in/manuel-persico-bb8793b0/) |
+<p align="center"><a href="https://inoke.studio">inoke.studio</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/manuel-persico-bb8793b0/">LinkedIn</a></p>
 
 *I like understanding what happens underneath — then making something useful out of it.*
 
