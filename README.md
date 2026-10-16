@@ -1,15 +1,23 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="console-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="console-light.svg" />
-  <img src="console-light.svg" width="100%" alt="Manuel Persico — CTO at Inoke. Software, AI and systems. Lifelong tinkerer, science-fiction reader. Asimov and Pekka Himanen's hacker ethic." />
-</picture>
+# Manuel Persico
 
-<p align="center">
-  <a href="https://inoke.studio">inoke.studio</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/manuel-persico-bb8793b0/">LinkedIn</a>
-</p>
+*Software engineer. Lifelong tinkerer. CTO at Inoke.*
 
-I build software, connect systems and follow my curiosity into the details. **CTO at Inoke**, working across applied AI, full-stack development and infrastructure. Off the clock, the urge to tinker tends to stay on.
+| | |
+| :--- | :--- |
+| `OS` | Windows · Linux · Android |
+| `Uptime` | 41 years, 9 months, 17 days · as of October 16, 2026 |
+| `Host` | Inoke |
+| `Kernel` | CTO / Software Engineer |
+| `Languages.Programming` | Python · PHP · JavaScript · Java |
+| `Languages.Real` | Italian · English |
+| `Focus` | Software architecture · Applied AI · Systems |
+| `Interests` | Artificial intelligence · Tinkering · Hardware · Science fiction |
+| `Reading` | Isaac Asimov · Science fiction |
+| `Ethos` | Pekka Himanen's hacker ethic |
+| `Location` | Sardinia, Italy |
+| `Connect` | [Inoke](https://inoke.studio) · [LinkedIn](https://www.linkedin.com/in/manuel-persico-bb8793b0/) |
+
+*I like understanding what happens underneath — then making something useful out of it.*
 
 <details>
 <summary><b>A little background</b></summary>
@@ -49,7 +57,7 @@ These are professional project highlights; their source code is not necessarily 
 </details>
 
 <details>
-<summary><b>Tools & technical interests</b></summary>
+<summary><b>Technical background</b></summary>
 
 ```text
 ai.retrieval   Python / LlamaIndex / LangChain / OpenAI API
