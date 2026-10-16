@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="https://inoke.studio">inoke.studio</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/manuel-persico-bb8793b0/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="https://github.com/manuel-84/signalrgb-epomaker-th80-v2-pro">On my workbench</a>
+  <a href="https://www.linkedin.com/in/manuel-persico-bb8793b0/">LinkedIn</a>
 </p>
 
 I build software, connect systems and follow my curiosity into the details. **CTO at Inoke**, working across applied AI, full-stack development and infrastructure. Off the clock, the urge to tinker tends to stay on.
@@ -72,11 +71,3 @@ test.explore   Jest / Cypress / Unity / Unreal Engine
 I build conversational assistants and document knowledge systems, integrate hosted models, experiment with local models, and work with domain experts to review answers and sources. AI coding agents are part of my workflow for analysis, implementation, refactoring, documentation and testing.
 
 </details>
-
-<details>
-<summary><b>On my workbench · software meets hardware</b></summary>
-
-**[SignalRGB × EPOMAKER TH80 V2 PRO](https://github.com/manuel-84/signalrgb-epomaker-th80-v2-pro)** — an unofficial JavaScript plugin for per-key RGB control over USB with the keyboard's stock firmware. Includes a 78-key mapping, bounded transfers, lighting-effect restoration and offline protocol tests.
-
-</details>
-
