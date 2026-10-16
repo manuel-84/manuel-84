@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="origin-terminal.svg" width="100%" alt="Manuel Persico — CTO, software builder and lifelong tinkerer. From a Commodore 64 and a BASIC game at 11 to software, systems and applied AI." />
+  <img src="origin-dashboard.svg" width="100%" alt="Manuel Persico — CTO, software builder and lifelong tinkerer. From a Commodore 64 and a BASIC game at 11 to software, systems and applied AI." />
 </p>
 
 <p align="center">
