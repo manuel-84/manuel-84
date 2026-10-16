@@ -1,94 +1,119 @@
 <p align="center">
-  <img src="header.svg" width="100%" alt="Manuel Persico — From idea to production. Applied AI, software architecture and digital products." />
+  <img src="header.svg" width="100%" alt="Manuel Persico — CTO, software builder and lifelong tinkerer. The kid who wanted to understand the computer. Still that kid. Now shipping the whole system." />
 </p>
 
 <p align="center">
-  <a href="https://inoke.studio"><b>INOKE ↗</b></a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/manuel-persico-bb8793b0/"><b>LINKEDIN ↗</b></a> &nbsp; · &nbsp;
-  <a href="#selected-work"><b>SELECTED WORK ↓</b></a>
+  <a href="https://inoke.studio">[ inoke.studio ]</a> &nbsp;
+  <a href="https://www.linkedin.com/in/manuel-persico-bb8793b0/">[ linkedin ]</a> &nbsp;
+  <a href="#-workbench">[ open-source workbench ]</a>
 </p>
 
-### I build the whole thing.
+## `~ / about-me`
 
-I'm **Manuel Persico**, CTO at **Inoke** since 2016. I bring **20+ years of experience** across software engineering, systems administration and technical leadership — connecting product ideas with architecture, implementation and production operations.
+Computers have had my attention since I was a kid. I want to know what happens underneath: how the pieces communicate, why something fails, and what else it could do. That curiosity became my profession. The urge to tinker never went away.
 
-My focus is **applied AI**: conversational assistants, LLM integrations, retrieval-augmented generation and knowledge systems that make information useful. I work with domain experts to review answers and sources, and with teams to turn prototypes into maintained products.
+I'm **Manuel Persico**, **CTO at Inoke since 2016**, with **20+ years across software engineering, systems administration and technical leadership**. I move between application code, databases, infrastructure and hardware interfaces. I like the problems that cross those boundaries — especially when solving them means learning how an unfamiliar system actually works.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**A builder's mindset, a hacker's curiosity, a white-hat ethic:** understand deeply, experiment responsibly, respect permission and privacy, and leave things better than I found them.
 
-**01 / APPLIED AI**
+I can lead the technical direction and get my hands into the implementation. For **ACCERT and QuickBooking**, that has meant the full journey: idea, requirements, architecture, code, integrations and CI/CD.
 
-LLMs · RAG · semantic search<br/>
-Knowledge bases · prompt engineering<br/>
-Answer and source evaluation
+## `~ / capabilities`
 
-</td>
-<td width="33%" valign="top">
+```text
++-------------------+-----------------------------------------+
+| APPLIED AI        | LLM integrations, RAG, semantic search  |
+|                   | Knowledge bases, prompts, evaluation    |
++-------------------+-----------------------------------------+
+| PRODUCT BUILDING  | Architecture, full stack, APIs, data    |
+|                   | From a rough idea to production         |
++-------------------+-----------------------------------------+
+| SYSTEMS THINKING  | Cloud, Linux, Docker, CI/CD, SysOps     |
+|                   | Debug across layers. Own the delivery.  |
++-------------------+-----------------------------------------+
+| TINKERER MODE     | Hardware interfaces, protocols, tools   |
+|                   | Understand it. Make it work. Share it.  |
++-------------------+-----------------------------------------+
+```
 
-**02 / PRODUCT ENGINEERING**
+My current focus is **AI that works with real knowledge and real users**. I build conversational assistants, integrate hosted models, experiment with local models and connect them to document collections through retrieval and vector search. I work with domain experts to review answers and sources.
 
-Architecture · full-stack development<br/>
-APIs · data integration<br/>
-From requirements to release
+AI coding agents are also part of my workbench: analysis, development, refactoring, documentation and testing — with engineering judgment and validation throughout.
 
-</td>
-<td width="33%" valign="top">
+## `~ / workbench`
 
-**03 / PRODUCTION SYSTEMS**
+### `> SignalRGB x EPOMAKER TH80 V2 PRO`
 
-CI/CD · Docker · cloud infrastructure<br/>
-DevOps · SysOps<br/>
-Deployment and maintenance
+**[View the code →](https://github.com/manuel-84/signalrgb-epomaker-th80-v2-pro)**
 
-</td>
-</tr>
-</table>
+A good example of my tinkering side: an unofficial **JavaScript plugin that connects a keyboard to SignalRGB over USB using its stock firmware**.
 
-## Selected work
+```text
+[ SOFTWARE ] <---- USB / HID ----> [ HARDWARE ]
+     |                                  |
+     +-- 78-key RGB mapping             |
+     +-- bounded transfers              |
+     +-- lighting-effect restoration ---+
+     +-- offline protocol tests
 
-### AI for culture, places and people
+Firmware flashing: not required.
+Curiosity: required.
+```
 
-| Project | Context & contribution |
-| :--- | :--- |
-| **GrazIA** | Conversational assistant about Grazia Deledda for **ISRE / Museo Deledda**. Knowledge preparation and integration with a museum digital installation. |
-| **Sisaia** | Conversational archaeology for the **Museo Archeologico Nazionale di Nuoro**. Technical design, knowledge-base architecture and review of answers, chronology and sources with scientific staff. |
-| **e.INS · Territorial AI** | Cultural and tourism assistants for **Dorgali, Galtellì and Oliena**, and **GAL BMG — Racconti di Gusto**. Includes digital libraries for Dorgali and Oliena supporting document access and AI knowledge bases. |
+## `~ / selected-work`
 
-### Products, platforms and infrastructure
+### `01 / AI meets cultural heritage`
 
-| Project | My work |
-| :--- | :--- |
-| **ACCERT & QuickBooking** | End-to-end responsibility: idea, requirements, architecture, implementation and CI/CD. |
-| **BFlows / Memento** | Fintech frontend development, API integration, customer and invoicing workflows, maintenance and technical handover. |
-| **My Culture** | Senior Software Engineer / CTO, **2023–June 2024**. Video-on-demand frontend, DevOps/SysOps, GitHub repositories, AWS Amplify and mobile delivery coordination. |
-| **Lìberos** | Technical development of a cultural network platform, **2012–2016**, using PHP, Yii, MySQL and Node.js. |
+- **GrazIA · ISRE / Museo Deledda** — Conversational assistant about Grazia Deledda. Knowledge preparation and integration with a museum digital installation.
+- **Sisaia · Museo Archeologico Nazionale di Nuoro** — Conversational archaeology: technical design, knowledge-base architecture, and review of answers, chronology and sources with scientific staff.
+- **e.INS · Territorial assistants** — Cultural and tourism AI for **Dorgali, Galtellì and Oliena**, and **GAL BMG — Racconti di Gusto**. Includes **digital libraries for Dorgali and Oliena**, connecting organized documents with accessible knowledge.
 
-These are selected professional projects; this profile describes my contribution and does not imply their source code is publicly available.
+### `02 / Ideas turned into products`
 
-## On my workbench
+- **ACCERT & QuickBooking** — End-to-end responsibility, from the initial idea and architecture to implementation and CI/CD.
+- **BFlows / Memento** — Fintech frontend development, API integration, customer and invoicing workflows, maintenance and technical handover.
+- **My Culture · 2023–June 2024** — Senior Software Engineer / CTO. Video-on-demand frontend, DevOps/SysOps, GitHub repositories, AWS Amplify and mobile delivery coordination.
+- **Lìberos · 2012–2016** — Technical development of a cultural network platform with PHP, Yii, MySQL and Node.js.
 
-**[SignalRGB × EPOMAKER TH80 V2 PRO →](https://github.com/manuel-84/signalrgb-epomaker-th80-v2-pro)**  
-An open-source JavaScript plugin for per-key RGB control over USB, using the keyboard's stock firmware. Includes a 78-key mapping, bounded transfers, effect restoration and offline protocol tests. A hands-on project at the intersection of software and hardware.
+### `03 / The foundations underneath`
 
-## My toolkit
+Before Inoke: **UltraDigital founder**, independent development and consulting, and **Windows systems / SQL Server work at Sorint.LAB for BIt Systems, Borsa Italiana / LSEG**. My background also includes public-sector information systems, web platforms, e-commerce and immersive projects.
 
-| Area | Technologies I work with |
-| :--- | :--- |
-| **AI & retrieval** | Python · LlamaIndex · LangChain · OpenAI API · FAISS · HNSWlib |
-| **Application development** | JavaScript · Vue / Nuxt · Node.js · PHP · Laravel · Java · HTML / CSS |
-| **Data** | PostgreSQL · MySQL · SQL Server · MongoDB · SQLite |
-| **Delivery & infrastructure** | Git · GitHub · CI/CD · Docker · Linux · AWS · Azure · NGINX · Apache |
-| **Testing & immersive work** | Jest · Cypress · Unity · Unreal Engine · Oculus Quest |
+These are professional project highlights; their source code is not necessarily public.
 
-## Beyond the code
+## `~ / toolbox`
 
-My background spans enterprise systems, cultural platforms, e-commerce, fintech and immersive experiences. I've also taught e-commerce and mentored young people in vocational IT training.
+```text
+ai.retrieval   Python / LlamaIndex / LangChain / OpenAI API
+               FAISS / HNSWlib
 
-I use AI coding agents in analysis, development, refactoring, documentation and testing, while keeping engineering decisions and validation grounded in the actual product.
+app.build      JavaScript / Vue / Nuxt / Node.js
+               PHP / Laravel / Java / HTML / CSS
+
+data.store     PostgreSQL / MySQL / SQL Server
+               MongoDB / SQLite
+
+ops.ship       Git / GitHub / CI/CD / Docker / Linux
+               AWS / Azure / NGINX / Apache
+
+test.explore   Jest / Cypress / Unity / Unreal Engine
+               Oculus Quest
+```
+
+<details>
+<summary><b>More than the stack</b></summary>
+
+I've taught e-commerce and mentored young people in vocational IT training. Explaining technology is part of understanding it — and helping someone discover what they can build is worth the time.
+
+My work connects technical leadership with hands-on delivery: making architectural decisions, writing code, integrating systems and keeping the result running.
+
+</details>
 
 ---
 
-<p align="center"><b>Good technology starts with understanding what people need.</b><br/><br/>
-<a href="https://inoke.studio">Explore Inoke</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/manuel-persico-bb8793b0/">Connect on LinkedIn</a></p>
+```text
+$ cat philosophy.txt
+Stay curious. Go deeper. Build something useful.
+```
+
+<p align="center"><a href="https://inoke.studio">[ Inoke ]</a> · <a href="https://www.linkedin.com/in/manuel-persico-bb8793b0/">[ Let's connect ]</a></p>
