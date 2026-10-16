@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="fetch-dark.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="fetch-light.svg?v=2" />
-  <img src="fetch-light.svg?v=2" width="100%" alt="Manuel Persico — CTO at Inoke. Software, AI and systems. Lifelong tinkerer, science-fiction reader. Asimov and Pekka Himanen's hacker ethic." />
+  <source media="(prefers-color-scheme: dark)" srcset="terminal-card-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="terminal-card-light.svg" />
+  <img src="terminal-card-light.svg" width="100%" alt="Manuel Persico — CTO at Inoke. Software, AI and systems. Lifelong tinkerer, science-fiction reader. Asimov and Pekka Himanen's hacker ethic." />
 </picture>
 
 <p align="center">
@@ -79,3 +79,4 @@ I build conversational assistants and document knowledge systems, integrate host
 **[SignalRGB × EPOMAKER TH80 V2 PRO](https://github.com/manuel-84/signalrgb-epomaker-th80-v2-pro)** — an unofficial JavaScript plugin for per-key RGB control over USB with the keyboard's stock firmware. Includes a 78-key mapping, bounded transfers, lighting-effect restoration and offline protocol tests.
 
 </details>
+
