@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="header.svg" width="100%" alt="Manuel Persico — CTO, software builder and lifelong tinkerer. The kid who wanted to understand the computer. Still that kid. Now shipping the whole system." />
+  <img src="terminal.svg" width="100%" alt="Manuel Persico — CTO, software builder and lifelong tinkerer. From a Commodore 64 and a BASIC game at 11 to software, systems and applied AI." />
 </p>
 
 <p align="center">
   <a href="https://inoke.studio">[ inoke.studio ]</a> &nbsp;
   <a href="https://www.linkedin.com/in/manuel-persico-bb8793b0/">[ linkedin ]</a> &nbsp;
-  <a href="#-workbench">[ open-source workbench ]</a>
+  <a href="#--workbench">[ open-source workbench ]</a>
 </p>
 
 ## `~ / about-me`
 
-Computers have had my attention since I was a kid. I want to know what happens underneath: how the pieces communicate, why something fails, and what else it could do. That curiosity became my profession. The urge to tinker never went away.
+**It started with a Commodore 64. At 11, I wrote my first program: a Space Invaders-style game in BASIC.**
+
+That was the beginning of a lifelong habit: figuring out how computers work by making them do something. I still want to know what happens underneath — how the pieces communicate, why something fails, and what else it could do. That curiosity became my profession. The urge to tinker never went away.
 
 I'm **Manuel Persico**, **CTO at Inoke since 2016**, with **20+ years across software engineering, systems administration and technical leadership**. I move between application code, databases, infrastructure and hardware interfaces. I like the problems that cross those boundaries — especially when solving them means learning how an unfamiliar system actually works.
 
@@ -117,3 +119,4 @@ Stay curious. Go deeper. Build something useful.
 ```
 
 <p align="center"><a href="https://inoke.studio">[ Inoke ]</a> · <a href="https://www.linkedin.com/in/manuel-persico-bb8793b0/">[ Let's connect ]</a></p>
+
