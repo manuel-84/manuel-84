@@ -1,70 +1,32 @@
-<p align="center">
-  <img src="origin-dashboard.svg" width="100%" alt="Manuel Persico — CTO, software builder and lifelong tinkerer. From a Commodore 64 and a BASIC game at 11 to software, systems and applied AI." />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="fetch-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="fetch-light.svg" />
+  <img src="fetch-light.svg" width="100%" alt="Manuel Persico — CTO at Inoke. Software, AI and systems. Lifelong tinkerer, science-fiction reader. Asimov and Pekka Himanen's hacker ethic." />
+</picture>
 
 <p align="center">
-  <a href="https://inoke.studio">[ inoke.studio ]</a> &nbsp;
-  <a href="https://www.linkedin.com/in/manuel-persico-bb8793b0/">[ linkedin ]</a> &nbsp;
-  <a href="#--workbench">[ open-source workbench ]</a>
+  <a href="https://inoke.studio">inoke.studio</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/manuel-persico-bb8793b0/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://github.com/manuel-84/signalrgb-epomaker-th80-v2-pro">On my workbench</a>
 </p>
 
-## `~ / about-me`
+I build software, connect systems and follow my curiosity into the details. **CTO at Inoke**, working across applied AI, full-stack development and infrastructure. Off the clock, the urge to tinker tends to stay on.
 
-**It started with a Commodore 64. At 11, I wrote my first program: a Space Invaders-style game in BASIC.**
+<details>
+<summary><b>A little background</b></summary>
 
-**At 18, my high-school thesis explored neural networks**, with an application that learned to count, OCR, image recognition and backpropagation algorithms, plus a neural-network visualization built in Visual Basic. My interest in AI started there, long before it became part of my day-to-day work.
+It started with a **Commodore 64**. At **11**, I wrote my first program: a Space Invaders-style game in **BASIC**.
 
-That was the beginning of a lifelong habit: figuring out how computers work by making them do something. I still want to know what happens underneath — how the pieces communicate, why something fails, and what else it could do. That curiosity became my profession. The urge to tinker never went away.
+At **18**, my high-school thesis explored **neural networks**: an application that learned to count, OCR, image recognition and backpropagation algorithms, with a neural-network visualization built in **Visual Basic**. AI has been an interest since those early experiments.
 
-I'm **Manuel Persico**, **CTO at Inoke since 2016**, with **20+ years across software engineering, systems administration and technical leadership**. I move between application code, databases, infrastructure and hardware interfaces. I like the problems that cross those boundaries — especially when solving them means learning how an unfamiliar system actually works.
+That curiosity became a career spanning **20+ years** in software engineering, systems administration and technical leadership. I've been **CTO at Inoke since 2016**, moving between architecture, implementation, integration and production operations.
 
-**A builder's mindset, a hacker's curiosity, a white-hat ethic:** understand deeply, experiment responsibly, respect permission and privacy, and leave things better than I found them.
+I enjoy **Isaac Asimov** and identify with **Pekka Himanen's hacker ethic**. Curiosity, meaningful work and sharing knowledge matter to me. I've also taught e-commerce and mentored young people in vocational IT training.
 
-I can lead the technical direction and get my hands into the implementation. For **ACCERT and QuickBooking**, that has meant the full journey: idea, requirements, architecture, code, integrations and CI/CD.
+</details>
 
-## `~ / capabilities`
-
-```text
-+-------------------+-----------------------------------------+
-| APPLIED AI        | LLM integrations, RAG, semantic search  |
-|                   | Knowledge bases, prompts, evaluation    |
-+-------------------+-----------------------------------------+
-| PRODUCT BUILDING  | Architecture, full stack, APIs, data    |
-|                   | From a rough idea to production         |
-+-------------------+-----------------------------------------+
-| SYSTEMS THINKING  | Cloud, Linux, Docker, CI/CD, SysOps     |
-|                   | Debug across layers. Own the delivery.  |
-+-------------------+-----------------------------------------+
-| TINKERER MODE     | Hardware interfaces, protocols, tools   |
-|                   | Understand it. Make it work. Share it.  |
-+-------------------+-----------------------------------------+
-```
-
-My current focus is **AI that works with real knowledge and real users**. I build conversational assistants, integrate hosted models, experiment with local models and connect them to document collections through retrieval and vector search. I work with domain experts to review answers and sources.
-
-AI coding agents are also part of my workbench: analysis, development, refactoring, documentation and testing — with engineering judgment and validation throughout.
-
-## `~ / workbench`
-
-### `> SignalRGB x EPOMAKER TH80 V2 PRO`
-
-**[View the code →](https://github.com/manuel-84/signalrgb-epomaker-th80-v2-pro)**
-
-A good example of my tinkering side: an unofficial **JavaScript plugin that connects a keyboard to SignalRGB over USB using its stock firmware**.
-
-```text
-[ SOFTWARE ] <---- USB / HID ----> [ HARDWARE ]
-     |                                  |
-     +-- 78-key RGB mapping             |
-     +-- bounded transfers              |
-     +-- lighting-effect restoration ---+
-     +-- offline protocol tests
-
-Firmware flashing: not required.
-Curiosity: required.
-```
-
-## `~ / selected-work`
+<details>
+<summary><b>Selected professional work</b></summary>
 
 ### `01 / AI meets cultural heritage`
 
@@ -85,7 +47,10 @@ Before Inoke: **UltraDigital founder**, independent development and consulting, 
 
 These are professional project highlights; their source code is not necessarily public.
 
-## `~ / toolbox`
+</details>
+
+<details>
+<summary><b>Tools & technical interests</b></summary>
 
 ```text
 ai.retrieval   Python / LlamaIndex / LangChain / OpenAI API
@@ -104,22 +69,13 @@ test.explore   Jest / Cypress / Unity / Unreal Engine
                Oculus Quest
 ```
 
-<details>
-<summary><b>More than the stack</b></summary>
-
-I've taught e-commerce and mentored young people in vocational IT training. Explaining technology is part of understanding it — and helping someone discover what they can build is worth the time.
-
-My work connects technical leadership with hands-on delivery: making architectural decisions, writing code, integrating systems and keeping the result running.
+I build conversational assistants and document knowledge systems, integrate hosted models, experiment with local models, and work with domain experts to review answers and sources. AI coding agents are part of my workflow for analysis, implementation, refactoring, documentation and testing.
 
 </details>
 
----
+<details>
+<summary><b>On my workbench · software meets hardware</b></summary>
 
-```text
-$ cat philosophy.txt
-Stay curious. Go deeper. Build something useful.
-```
+**[SignalRGB × EPOMAKER TH80 V2 PRO](https://github.com/manuel-84/signalrgb-epomaker-th80-v2-pro)** — an unofficial JavaScript plugin for per-key RGB control over USB with the keyboard's stock firmware. Includes a 78-key mapping, bounded transfers, lighting-effect restoration and offline protocol tests.
 
-<p align="center"><a href="https://inoke.studio">[ Inoke ]</a> · <a href="https://www.linkedin.com/in/manuel-persico-bb8793b0/">[ Let's connect ]</a></p>
-
-
+</details>
