@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-label="Manuel Persico: Commodore 64 and BASIC at 11; neural networks, OCR, image recognition and backpropagation at 18. CTO at Inoke, software builder and lifelong tinkerer.">
+<rect width="1000" height="700" rx="12" fill="#0d1117"/>
+<g font-family="Consolas,DejaVu Sans Mono,monospace" font-size="24" xml:space="preserve">
+<text x="40" y="43" fill="#6ee7b7">+-- manuel@inoke:~ ----------------------------------------+</text>
+<text x="40" y="72" fill="#c9d1d9">|                                                          |</text>
+<text x="40" y="101" fill="#6ee7b7">|  M A N U E L   P E R S I C O                             |</text>
+<text x="40" y="130" fill="#c9d1d9">|  CTO / SOFTWARE BUILDER / LIFELONG TINKERER              |</text>
+<text x="40" y="159" fill="#c9d1d9">|                                                          |</text>
+<text x="40" y="188" fill="#6ee7b7">+-- origin story ------------------------------------------+</text>
+<text x="40" y="217" fill="#c9d1d9">|  AGE 11  Commodore 64. BASIC. My first arcade game.      |</text>
+<text x="40" y="246" fill="#c9d1d9">|  AGE 18  Neural networks. My high-school thesis.         |</text>
+<text x="40" y="275" fill="#c9d1d9">|          Learning to count / OCR / image recognition     |</text>
+<text x="40" y="304" fill="#c9d1d9">|          Backpropagation. Curiosity turned into code.    |</text>
+<text x="40" y="333" fill="#c9d1d9">|                                                          |</text>
+<text x="40" y="362" fill="#6ee7b7">|  SAME CURIOSITY. BIGGER SYSTEMS.                         |</text>
+<text x="40" y="391" fill="#c9d1d9">|  20+ years in software / CTO @ Inoke since 2016          |</text>
+<text x="40" y="420" fill="#6ee7b7">+-- operating mode ----------------------------------------+</text>
+<text x="40" y="449" fill="#c9d1d9">|  [01] UNDERSTAND  Read it. Trace it. Ask why.            |</text>
+<text x="40" y="478" fill="#c9d1d9">|  [02] EXPERIMENT  Connect the pieces. Test the idea.     |</text>
+<text x="40" y="507" fill="#c9d1d9">|  [03] BUILD       From architecture to working code.     |</text>
+<text x="40" y="536" fill="#c9d1d9">|  [04] SHIP        Automate. Deploy. Maintain. Improve.   |</text>
+<text x="40" y="565" fill="#6ee7b7">+-- current focus -----------------------------------------+</text>
+<text x="40" y="594" fill="#c9d1d9">|  Applied AI / LLMs / RAG / software + hardware           |</text>
+<text x="40" y="623" fill="#c9d1d9">+----------------------------------------------------------+</text>
+<text x="40" y="652" fill="#6ee7b7">  $ curiosity --lifelong --hands-on</text>
+</g></svg>

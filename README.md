@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="terminal.svg" width="100%" alt="Manuel Persico — CTO, software builder and lifelong tinkerer. From a Commodore 64 and a BASIC game at 11 to software, systems and applied AI." />
+  <img src="origin-terminal.svg" width="100%" alt="Manuel Persico — CTO, software builder and lifelong tinkerer. From a Commodore 64 and a BASIC game at 11 to software, systems and applied AI." />
 </p>
 
 <p align="center">
@@ -11,6 +11,8 @@
 ## `~ / about-me`
 
 **It started with a Commodore 64. At 11, I wrote my first program: a Space Invaders-style game in BASIC.**
+
+**At 18, my high-school thesis explored neural networks**, with an application that learned to count, OCR, image recognition and backpropagation algorithms. My interest in AI started there, long before it became part of my day-to-day work.
 
 That was the beginning of a lifelong habit: figuring out how computers work by making them do something. I still want to know what happens underneath — how the pieces communicate, why something fails, and what else it could do. That curiosity became my profession. The urge to tinker never went away.
 
