@@ -1,6 +1,6 @@
 # Manuel Persico
 
-*Software engineer. Lifelong tinkerer. CTO at Inoke.*
+*Software & Applied AI Engineer · CTO at Inoke · Lifelong tinkerer*
 
 | | |
 | :--- | :--- |
@@ -79,3 +79,4 @@ test.explore   Jest / Cypress / Unity / Unreal Engine
 I build conversational assistants and document knowledge systems, integrate hosted models, experiment with local models, and work with domain experts to review answers and sources. AI coding agents are part of my workflow for analysis, implementation, refactoring, documentation and testing.
 
 </details>
+
